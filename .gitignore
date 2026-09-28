@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+.virtual_documents/
 *.pyc
 __pycache__/
 .DS_Store
